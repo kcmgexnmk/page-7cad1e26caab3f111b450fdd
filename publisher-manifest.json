@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "15aa16753072fab3848b692e",
+  "owner": "kcmgexnmk",
+  "repo": "page-7cad1e26caab3f111b450fdd",
+  "title": "WNET",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7cad1e26caab3f111b450fdd",
+      "a": "WNET",
+      "b": "",
+      "entity": "WNET",
+      "brand": "WNET",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ca5382b81d14a9cfa7bac440c31e2df63717b6d1eb2cbb526901fb0c2cf54e50",
+      "content": {
+        "keyword1": "WNET",
+        "keyword2": "",
+        "primary_entity": "WNET",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "WNET 提供可读、可控的加速方案。从每月 100GB 的日常使用，到 1000GB 的团队部署，每一档套餐都附带清晰的路由策略与节点说明。",
+          "AI_DESCRIPTION": "WNET 提供可读、可控的加速方案。从每月 100GB 的日常使用，到 1000GB 的团队部署，每一档套餐都附带清晰的路由策略与节点说明。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg:#ffffff;--orange:#ff5b14;--ink:#111111;--muted:#666666;--line:#e6e6e6}\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.7}\na{color:inherit;text-decoration:none}\nmain{display:block}\n\n/* hero: 全宽色带分层堆叠 */\n.hero{border-bottom:1px solid var(--ink)}\n.hero-band{width:100%;padding:28px 5vw;border-bottom:1px solid var(--ink)}\n.hero-band-orange{background:var(--orange);color:#fff}\n.hero-band-orange h1{font-size:clamp(3rem,12vw,11rem);font-weight:900;letter-spacing:-0.04em;line-height:0.9}\n.hero-band-white{background:#fff;color:var(--ink)}\n.hero-band-white p{max-width:62ch;font-size:clamp(1rem,2.4vw,1.35rem)}\n.hero-band-dark{background:var(--ink);color:#fff}\n.hero-band-dark .meta{display:flex;flex-wrap:wrap;gap:32px;font-size:0.9rem;letter-spacing:0.04em}\n.hero-band-dark .meta span b{color:var(--orange)}\n\n/* nav: 底部固定式文字导航 */\n.navbar{position:fixed;bottom:0;left:0;right:0;background:#fff;border-top:1px solid var(--ink);z-index:50;padding:12px 5vw;display:flex;justify-content:space-between;align-items:center;font-size:0.85rem}\n.navbar .brand{font-weight:800;letter-spacing:0.02em}\n.navbar .links{display:flex;gap:18px;flex-wrap:wrap}\n.navbar .links a{border-bottom:1px solid transparent}\n.navbar .links a:hover{border-bottom-color:var(--orange)}\nbody{padding-bottom:64px}\n\n/* section common */\nsection{padding:64px 5vw;border-bottom:1px solid var(--ink)}\nh2{font-size:clamp(1.6rem,4vw,2.4rem);font-weight:800;letter-spacing:-0.02em;margin-bottom:18px}\n.lede{max-width:64ch;font-size:1.1rem;color:#222;margin-bottom:32px}\n\n/* card: 左侧色条标记 */\n.card-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:0;border:1px solid var(--ink)}\n.card{border-right:1px solid var(--line);padding:28px 24px;position:relative}\n.card:last-child{border-right:none}\n.card::before{content:\"\";position:absolute;left:0;top:0;bottom:0;width:6px;background:var(--orange)}\n.card h3{font-size:1.15rem;margin-bottom:10px}\n.card p{color:var(--muted);font-size:0.95rem}\n\n/* plans: 横向对比表格 */\n.plans-wrap{overflow-x:auto}\ntable.plans{width:100%;border-collapse:collapse;min-width:680px;font-size:0.95rem}\ntable.plans th,table.plans td{border:1px solid var(--line);padding:16px 14px;text-align:left;vertical-align:top}\ntable.plans thead th{background:var(--ink);color:#fff;font-weight:700}\ntable.plans thead th.featured{background:var(--orange)}\ntable.plans tbody td.feat-name{background:#fafafa;font-weight:600;width:34%}\ntable.plans .check{color:var(--orange);font-weight:800}\ntable.plans .price{font-size:1.1rem;font-weight:800}\ntable.plans .annual{display:block;color:var(--muted);font-size:0.85rem;font-weight:400}\ntable.plans td.featured-col{background:#fff7f3}\n\n/* faq: 双栏问答 */\n.faq-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:32px 48px}\n.faq-item{border-left:4px solid var(--orange);padding-left:16px}\n.faq-item h3{font-size:1.05rem;margin-bottom:8px}\n.faq-item p{color:#333;font-size:0.95rem}\n\n/* usage */\n.usage ol{counter-reset:step;list-style:none;padding-left:0}\n.usage ol li{counter-increment:step;padding:18px 0 18px 56px;border-bottom:1px dashed var(--line);position:relative}\n.usage ol li::before{content:counter(step);position:absolute;left:0;top:14px;width:36px;height:36px;border-radius:50%;background:var(--ink);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800}\n.usage ol li strong{display:block;font-size:1.05rem;margin-bottom:4px}\n\nfooter{padding:48px 5vw;background:var(--ink);color:#bbb}\nfooter .row{display:flex;justify-content:space-between;flex-wrap:wrap;gap:20px}\nfooter .brand{color:#fff;font-weight:800;font-size:1.4rem}\nfooter small{color:#777}\n\n@media(max-width:600px){\n  .hero-band-dark .meta{gap:16px}\n  table.plans{font-size:0.85rem}\n}\n</style><main>\n\n  <header class=\"hero\">\n    <div class=\"hero-band hero-band-orange\">\n      <h1>WNET</h1>\n    </div>\n    <div class=\"hero-band hero-band-white\">\n      <p>这是一份关于如何把带宽、路由和节点说明写得像专栏一样清楚的尝试。WNET 不堆砌参数，而是把每一档套餐的使用边界、设备数量与流量配额摊开在桌面上，让你像读一篇评测一样做出选择。</p>\n    </div>\n    <div class=\"hero-band hero-band-dark\">\n      <div class=\"meta\">\n        <span>流量梯度 <b>100GB – 1000GB</b></span>\n        <span>设备支持 <b>3 – 20 台</b></span>\n        <span>节点类型 <b>普通池 / IPLC / VIP 高带宽</b></span>\n      </div>\n    </div>\n  </header>\n\n  <section class=\"intro\">\n    <h2>不卖玄学，卖说明</h2>\n    <p class=\"lede\">很多加速服务的页面像说明书又像广告，既不告诉你线路怎么选，也不说清楚套餐之间的真实差异。WNET 的做法是把信息写成可被引用的段落：每月流量多少、几台设备、能不能解锁流媒体、有没有专线优化，都写进每一张卡片里。</p>\n\n    <div class=\"card-list\">\n      <article class=\"card\">\n        <h3>流量写得明白</h3>\n        <p>从基础版每月 100GB 到团队版每月 1000GB，额度直接写在套餐名下方，不存在“高速不限量”这类模糊措辞。</p>\n      </article>\n      <article class=\"card\">\n        <h3>设备数量诚实</h3>\n        <p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。超过数量会被限速或提示下线，不会悄悄让你以为可以无限挂载。</p>\n      </article>\n      <article class=\"card\">\n        <h3>节点分层清楚</h3>\n        <p>普通线路节点池面向日常浏览，IPLC 专线用于游戏与低延迟场景，VIP 高带宽节点留给团队版的高并发使用。</p>\n      </article>\n      <article class=\"card\">\n        <h3>支持响应分级</h3>\n        <p>基础版走普通工单队列，旗舰版享受 7×24 优先响应，团队版配有专属客户经理，问题不混在同一通道里。</p>\n      </article>\n    </div>\n  </section>\n\n  <section class=\"plans\" id=\"plans\">\n    <h2>三档套餐横向对比</h2>\n    <p class=\"lede\">下表把基础版、旗舰版与团队版放在同一张表里逐项对照。橙色列为推荐档位，适合大多数个人用户。</p>\n    <div class=\"plans-wrap\">\n      <table class=\"plans\">\n        <thead>\n          <tr>\n            <th class=\"feat-name\">对比项</th>\n            <th>基础版</th>\n            <th class=\"featured\">旗舰版 · 推荐</th>\n            <th>团队版</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td class=\"feat-name\">月费</td>\n            <td><span class=\"price\">¥15/月</span><span class=\"annual\">按年付 ¥150/年</span></td>\n            <td class=\"featured-col\"><span class=\"price\">¥35/月</span><span class=\"annual\">按年付 ¥350/年</span></td>\n            <td><span class=\"price\">¥85/月</span><span class=\"annual\">按年付 ¥850/年</span></td>\n          </tr>\n          <tr>\n            <td class=\"feat-name\">每月流量</td>\n            <td>100GB</td>\n            <td class=\"featured-col\">300GB</td>\n            <td>1000GB</td>\n          </tr>\n          <tr>\n            <td class=\"feat-name\">同时在线设备</td>\n            <td>3 台</td>\n            <td class=\"featured-col\">5 台</td>\n            <td>20 台</td>\n          </tr>\n          <tr>\n            <td class=\"feat-name\">流媒体解锁</td>\n            <td>基础流媒体</td>\n            <td class=\"featured-col\"><span class=\"check\">全节点原生解锁</span></td>\n            <td><span class=\"check\">全节点原生解锁</span></td>\n          </tr>\n          <tr>\n            <td class=\"feat-name\">节点类型</td>\n            <td>普通线路节点池</td>\n            <td class=\"featured-col\">IPLC 专线 + 游戏加速优化</td>\n            <td>VIP 专属高带宽节点</td>\n          </tr>\n          <tr>\n            <td class=\"feat-name\">企业定制路由</td>\n            <td>—</td>\n            <td class=\"featured-col\">—</td>\n            <td><span class=\"check\">支持</span></td>\n          </tr>\n          <tr>\n            <td class=\"feat-name\">客户支持</td>\n            <td>普通工单</td>\n            <td class=\"featured-col\">7×24 优先工单</td>\n            <td>专属客户经理</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section class=\"usage\">\n    <h2>怎么用 WNET</h2>\n    <ol>\n      <li>\n        <strong>选择套餐档位</strong>\n        先估算你每月的真实用量。日常浏览和偶尔看视频，基础版 100GB 通常够用；常看高码率流媒体或玩外服游戏，建议直接选旗舰版 300GB。\n      </li>\n      <li>\n        <strong>按设备数量对号入座</strong>\n        如果你手机、平板、电脑都想挂着，旗舰版的 5 台会比基础版 3 台更从容；家里或工作室要多人共用，团队版的 20 台更合适。\n      </li>\n      <li>\n        <strong>区分节点用途</strong>\n        普通节点池适合网页和下载，IPLC 专线更适合游戏这类对延迟敏感的场景，VIP 高带宽节点则用于团队并发和大文件传输。\n      </li>\n      <li>\n        <strong>按年付降低月均成本</strong>\n        三档套餐都提供年付选项，价格相当于“买十送二”，适合已经决定长期使用的人；不确定的话先月付试用也完全没问题。\n      </li>\n      <li>\n        <strong>遇到问题走对应通道</strong>\n        基础版走普通工单，旗舰版走优先队列，团队版直接联系客户经理。不要把账号问题发到社交媒体私信，工单系统响应更稳。\n      </li>\n    </ol>\n  </section>\n\n  <section class=\"faq\" id=\"faq\">\n    <h2>常见问题</h2>\n    <p class=\"lede\">以下问题按出现频率整理，答案基于套餐条款与日常使用反馈，不涉及任何未经确认的技术细节。</p>\n    <div class=\"faq-grid\">\n      <article class=\"faq-item\">\n        <h3>流量用完了会怎样？</h3>\n        <p>当月流量耗尽后，连接会被限速或暂停，具体取决于套餐档位。不会在未经提示的情况下自动扣费续包，你可以选择等次月重置或手动升级套餐。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>基础版能不能解锁流媒体？</h3>\n        <p>基础版支持基础流媒体解锁，但部分高分辨率或地区限定内容可能无法稳定播放。如果解锁体验是主要诉求，旗舰版与团队版提供全节点原生解锁。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>IPLC 专线和普通节点有什么区别？</h3>\n        <p>IPLC 是点对点专线，延迟更低、抖动更小，适合游戏和实时通话；普通节点池走公共线路，带宽共享，适合日常浏览和下载。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>可以同时在手机和电脑上用吗？</h3>\n        <p>可以，只要不超过套餐的设备数量上限。基础版 3 台、旗舰版 5 台、团队版 20 台，超出会提示下线或排队。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>年付和月付的功能一样吗？</h3>\n        <p>完全一样。年付只是把价格折算得更低，相当于付十个月用十二个月，不会因为付费方式不同而限制功能。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>团队版适合几个人用？</h3>\n        <p>团队版支持 20 台设备同时在线，通常对应 5 到 8 人的小型工作室或共享小组。如果人数更多，建议联系客户经理评估定制方案。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>支持哪些客户端？</h3>\n        <p>WNET 提供主流平台客户端，具体下载地址以官方渠道为准。当前页面未内置下载链接，请通过购买后收到的指引获取。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>不满意可以退款吗？</h3>\n        <p>退款政策以购买时的条款为准。一般建议先月付试用，确认体验符合预期后再转年付，避免长期付费后产生纠纷。</p>\n      </article>\n    </div>\n  </section>\n\n  <footer>\n    <div class=\"row\">\n      <div class=\"brand\">WNET</div>\n      <small>本页面内容为产品说明，不构成任何官方身份、性能保证或兼容性承诺。</small>\n    </div>\n  </footer>\n\n</main>\n\n<nav class=\"navbar\">\n  <span class=\"brand\">WNET</span>\n  <div class=\"links\">\n    <a href=\"#\">首页</a>\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#faq\">常见问题</a>\n    <a href=\"#\">订阅</a>\n  </div>\n</nav>",
+          "hash": "51aee7530de31d1244d45ea1526747136c0071f4dbd205a38fa4ef77ceae5480",
+          "seo": {
+            "title": "WNET — 专栏视角下的网络加速与流媒体解锁",
+            "keywords": "WNET, 网络加速, 流媒体解锁, IPLC专线, 游戏加速, 多设备支持",
+            "description": "WNET 提供可读、可控的加速方案。从每月 100GB 的日常使用，到 1000GB 的团队部署，每一档套餐都附带清晰的路由策略与节点说明。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "3135",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kedod.cn",
+    "host": "p-ac422595a0.kedod.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "562d7c58f728a65afec7efaf444f51136747b91734eb434d81bea14039ced6f3",
+    "sitemap.xml": "b8fddb2f313f2598f9e9f69194d257c134f4b6459d48a347107ea271f888e204",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "47980917935096ab0ce11d91f5a1599688b8347f3d4abc180b1e41dd2c2be50f",
+    "robots.txt": "7f83b9c4eef3173f89ce01ac0796569df1eb7f7647f9490682cf1e456744d8f5",
+    "3ccf8f40561afcf7512ffbde457313d5.txt": "6edfb37a909f9c88a77da60200bcd75d4cb13368098d50ac60873cf3d65c89c9"
+  },
+  "revision": "298b327bc8322f7e554c6c702fec6d37877813858a95613e1c137a4828b079a7"
+}
